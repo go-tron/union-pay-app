@@ -5,8 +5,8 @@ go 1.19
 require (
 	github.com/forgoer/openssl v1.6.0
 	github.com/go-resty/resty/v2 v2.12.0
-	github.com/go-tron/base-error v1.0.0
-	github.com/go-tron/config v1.0.0
+	github.com/go-tron/base-error v1.0.2
+	github.com/go-tron/config v1.0.1
 	github.com/go-tron/crypto v1.0.0
 	github.com/go-tron/local-time v1.0.0
 	github.com/go-tron/logger v1.0.1

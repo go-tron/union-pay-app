@@ -74,8 +74,12 @@ github.com/go-resty/resty/v2 v2.12.0 h1:rsVL8P90LFvkUYq/V5BTVe203WfRIU4gvcf+yfzJ
 github.com/go-resty/resty/v2 v2.12.0/go.mod h1:o0yGPrkS3lOe1+eFajk6kBW8ScXzwU3hD69/gt2yB/0=
 github.com/go-tron/base-error v1.0.0 h1:oPcqZOYUyShFfMBXYMgjcvMwyuJPsM0cCS126e/8yV4=
 github.com/go-tron/base-error v1.0.0/go.mod h1:TVV7i0UkqTQA1j4j8u0sORfTOA19oAurw4UkNF+jPbI=
+github.com/go-tron/base-error v1.0.2 h1:s8AAmxCYzcUJN28mIoF1fTrhkxihXCJzUx89rT+2unc=
+github.com/go-tron/base-error v1.0.2/go.mod h1:Tk1KDlx21R0cGvRJcOR+E2h12n2g2EUKfugRx6QHpeI=
 github.com/go-tron/config v1.0.0 h1:MNP7vRknVVR5nB8EVdXur6AiDSmV7qS477Zsw3SmQUU=
 github.com/go-tron/config v1.0.0/go.mod h1:UUwN9o4gV99daNdK+h+rnZneLI1SuRlQa9ibYqj8HcA=
+github.com/go-tron/config v1.0.1 h1:aV1HfUtOAdNHK5kaq/BGjj+L8tIoF60/4dAEmMdYhyM=
+github.com/go-tron/config v1.0.1/go.mod h1:UUwN9o4gV99daNdK+h+rnZneLI1SuRlQa9ibYqj8HcA=
 github.com/go-tron/crypto v1.0.0 h1:MeTn9vczQLZveV3WVarT1hDyep/mHQp1akbd+Uxabhg=
 github.com/go-tron/crypto v1.0.0/go.mod h1:rVqIkhZeFhYQghyO91uaX6Um4nq8GWFAnvgE79EjiVU=
 github.com/go-tron/local-time v1.0.0 h1:alIjl4UiJj2JM3LLIgGju0KziQ8PoppAT6w21gcKE0E=
